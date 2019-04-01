@@ -1,0 +1,7 @@
+C:\Users\prisc\source\repos\Numeros\Numeros\bin\Debug\Numeros.exe.config
+C:\Users\prisc\source\repos\Numeros\Numeros\bin\Debug\Numeros.exe
+C:\Users\prisc\source\repos\Numeros\Numeros\bin\Debug\Numeros.pdb
+C:\Users\prisc\source\repos\Numeros\Numeros\obj\Debug\Numeros.csprojAssemblyReference.cache
+C:\Users\prisc\source\repos\Numeros\Numeros\obj\Debug\Numeros.csproj.CoreCompileInputs.cache
+C:\Users\prisc\source\repos\Numeros\Numeros\obj\Debug\Numeros.exe
+C:\Users\prisc\source\repos\Numeros\Numeros\obj\Debug\Numeros.pdb
